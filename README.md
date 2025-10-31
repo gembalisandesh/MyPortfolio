@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-Highly skilled iOS Developer with 2+ years of experience in end-to-end technical ownership of engineering projects. Passionate about creating elegant, user-friendly mobile applications and mentoring junior developers. Currently based in Vishakapatnam, India.
+iOS Developer with **3.5 years of experience** in mobile application development. Proficient in **Swift, SwiftUI, UIKit**, and core iOS frameworks. Experienced in **design patterns (MVVM, MVP, State Management)**, **asynchronous programming**, and **multithreading**. Familiar with **Agile** and **Test-Driven Development**. Passionate about building scalable iOS apps and mentoring developers. Based in **Visakhapatnam, India**.
 
 ## 🛠 Tech Stack
 
@@ -26,23 +26,29 @@ Highly skilled iOS Developer with 2+ years of experience in end-to-end technical
 
 ### Languages
 - Swift
+- SwiftUI
 - Python
 - Java
 - C
 - HTML/CSS
+- JavaScript
 - SQL
 
 ### Frameworks & Technologies
 - SwiftUI
 - UIKit
+- ProcedureKit
 - CometChat SDKs
 - CallKit & PushKit
-- Firebase SDK
+- Firebase SDK / Firestore
 - CoreData
 - CoreAnimation
 - CoreGraphics
 - Combine
 - Alamofire
+- ProcedureKit
+- XCTest
+- SQLite
 
 ### Developer Tools
 - Xcode
@@ -50,23 +56,32 @@ Highly skilled iOS Developer with 2+ years of experience in end-to-end technical
 - VS Code
 - Eclipse
 - Google Cloud Platform
+- Postman
 - GitHub
 - BitBucket
 - Jira
 
 ## 🚀 Featured Projects
 
-### 📱 iOS Chat Application
-- Developed a fully functional iOS chat application with call and real-time messaging capabilities
-- Integrated CometChat SDKs, CallKit, PushKit, and Firebase FCM
-- Implemented real-time push notifications using APNS
-- Enhanced user engagement through seamless communication features
+### 🏗️ Construction & Equipment Management iOS App
+- Developed an iOS app with secure login, digital agreements, file uploads, and offline PDF report generation from HTML/CSS.
+- Used **Core Data** for local data storage and synchronization of equipment and inspection records.
+- Integrated **Firestore logs**, **push notifications**, and **CI/CD pipelines** for automation and reliability.
+- Collaborated with stakeholders to ensure the app met domain-specific workflows.
+
+### 🩺 Healthcare Learning iOS Application
+- Designed a **SwiftUI-based** iOS app for healthcare students to access courses, verify backgrounds, and manage personalized content.
+- Integrated **Firestore** for real-time course updates, offers, and user-specific notifications.
+- Followed **MVVM architecture** for maintainability and scalability.
+
+### 💬 iOS Chat Application
+- Built a real-time chat and calling iOS app using **CometChat SDKs**, **CallKit**, **PushKit**, and **Firebase FCM**.
+- Integrated **APNS** and local push notifications for better engagement.
+- Collaborated with product managers to ensure timely feature delivery.
 
 ### ✈️ Airline Cargo Management App
-- Led development of a robust cargo management iOS application
-- Implemented real-time tracking functionality
-- Integrated third-party APIs for seamless data synchronization
-- Maintained industry compliance and security standards
+- Developed a **SwiftUI-based** cargo tracking app with real-time shipment updates.
+- Integrated **third-party APIs** to sync with backend systems and maintain regulatory compliance.
 
 ### 💼 Internal Client Projects
 - Developed and maintained multiple internal iOS applications
@@ -74,28 +89,54 @@ Highly skilled iOS Developer with 2+ years of experience in end-to-end technical
 - Integrated new features based on client feedback
 - Provided technical support and performance optimization solutions
 
-## 📈 GitHub Stats
+## 💼 Experience
+
+### **Mobiuso (Service-based Company)** — *iOS Developer*  
+📍 Mumbai, Maharashtra | 🗓️ Nov 2024 – Present  
+- Developed and maintained apps in **Healthcare** and **Construction** domains using Swift, SwiftUI, and UIKit.  
+- Implemented **secure login, file upload, PDF generation**, and **real-time analytics**.  
+- Integrated **CI/CD pipelines**, **push notifications**, and **Firestore logs**.  
+- Handled **App Store submissions** and collaborated with teams for new feature R&D.
+
+### **CometChat (Product-based Company)** — *Jr iOS Developer*  
+📍 Mumbai, Maharashtra | 🗓️ Mar 2024 – May 2024  
+- Developed a **SwiftUI-based** iOS app integrating **CometChat SDKs**, **CallKit**, **PushKit**, and **CometChatUIKit**.  
+- Implemented **real-time messaging** and **push notifications (APNS + Firebase)**.  
+- Worked closely with product managers to meet delivery milestones and technical goals.
+
+### **Hexaware Technologies** — *iOS Developer*  
+📍 Chennai, Tamil Nadu | 🗓️ Mar 2022 – Mar 2024  
+- Developed native iOS apps using **Swift** and **SwiftUI**.  
+- Implemented modern UI components, animations, and state management.  
+- Conducted **code reviews** and supported team members on SwiftUI best practices.  
+
+### **Skyfilabs** — *Trainee Intern*  
+📍 Bangalore, Karnataka | 🗓️ Feb 2019 – Feb 2019  
+- Gained experience in **Python**, **OpenCV**, and **IoT** project workflows.  
+- Developed foundational technical and teamwork skills.
+
+<!-- ## 📈 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gembalisandesh&theme=dark" alt="gembalisandesh" />
-</div>
+</div> -->
 
 ## 🎓 Education & Certifications
 
-- **B.Sc. in Computer Science** - GVPC DPGC, Visakhapatnam (2018-2022)
-- iOS App Development with Swift (Coursera)
-- Advanced Styling with Responsive Design (Coursera)
-- 100 Days of SwiftUI Challenge
-- iOS Development with SwiftUI (CodeSeacademy)
+- **B.Sc. in Computer Science** – GVPC DPGC, Visakhapatnam (2018–2022)
+- **Coursera:** iOS App Development with Swift, Advanced Styling with Responsive Design  
+- **Udemy:** iOS Development with UIKit & Storyboard, Auto Layout, Core Data  
+- **Codecademy:** iOS Development with SwiftUI  
+- **100 Days of SwiftUI Challenge** – Hacking with Swift  
 
 ## 📫 Let's Connect!
 
 Feel free to reach out for collaborations or just a friendly chat:
 
-- 📧 Email: gembalisandeshkumar@gmail.com
-- 🔗 LinkedIn: [Gembali Sandesh Kumar](https://www.linkedin.com/in/gembali-sandesh-kumar-a16178225/)
-- 💻 GitHub: [gembalisandesh](https://github.com/gembalisandesh)
-- 📱 Phone: +91 83408 07488
+- 📧 Email: gembalisandeshkumar@gmail.com  
+- 🔗 LinkedIn: [Gembali Sandesh Kumar](https://www.linkedin.com/in/gembali-sandesh-kumar-a16178225/)  
+- 💻 GitHub: [gembalisandesh](https://github.com/gembalisandesh)  
+- 📱 Phone: +91 83408 07488  
 
 ---
 
