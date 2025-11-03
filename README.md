@@ -123,7 +123,7 @@ iOS Developer with **3.5 years of experience** in mobile application development
 
 ## 🎓 Education & Certifications
 
-- **B.Sc. in Computer Science** – GVPC DPGC, Visakhapatnam (2018–2022)
+- **B.Tech. in Computer Science** – GVPC DPGC, Visakhapatnam (2018–2022)
 - **Coursera:** iOS App Development with Swift, Advanced Styling with Responsive Design  
 - **Udemy:** iOS Development with UIKit & Storyboard, Auto Layout, Core Data  
 - **Codecademy:** iOS Development with SwiftUI  
